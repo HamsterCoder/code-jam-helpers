@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/HamsterCoder/code-jam-helpers.git"
   },
-  "main": "index.js",
+  "main": "lib/index.js",
   "keywords": [
     "google",
     "code-jam",
