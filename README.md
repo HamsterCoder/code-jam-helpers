@@ -4,8 +4,12 @@ This is a collection of helper functions for JavaScipt for Google Code Jam codin
 
   * io - read/write input/output in a CodeJam friendly way.
   * dependencies (installs with the package):
-    * BigNumber library for tackling big inputs.
+    * [BigNumber](https://github.com/MikeMcl/bignumber.js/) library for tackling big inputs.
+    
 
+## Installation
+
+```npm install code-jam-helpers```
 
 ## Example
 
